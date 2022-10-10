@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/msstoreee/static/css/main.648dd9b9.css",
+    "main.js": "/msstoreee/static/js/main.e4f63645.js",
+    "static/media/img1.jpg": "/msstoreee/static/media/img1.b493a3ff7d037deadc9d.jpg",
+    "static/media/img2.jpg": "/msstoreee/static/media/img2.a30d84e9e83a637e3868.jpg",
+    "static/media/img3.jpg": "/msstoreee/static/media/img3.dacd06a69c9677b2a81c.jpg",
+    "index.html": "/msstoreee/index.html",
+    "main.648dd9b9.css.map": "/msstoreee/static/css/main.648dd9b9.css.map",
+    "main.e4f63645.js.map": "/msstoreee/static/js/main.e4f63645.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.648dd9b9.css",
+    "static/js/main.e4f63645.js"
+  ]
+}
